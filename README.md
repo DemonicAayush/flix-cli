@@ -35,7 +35,7 @@ $ sudo chmod +x /usr/local/bin/flix-cli-mac
 ```
 
 - To update, just do `curl` again, no need to `chmod` anymore.
-- To uninstall, simply remove `flix-cli` from your **$PATH**, for example `sudo rm -f /usr/local/bin/flix-cli'.
+- To uninstall, simply remove `flix-cli` from your **$PATH**, for example `sudo rm -f /usr/local/bin/flix-cli`.
 
 ## License
 his project is licensed under [GPL-3.0](https://raw.githubusercontent.com/Illumina/licenses/master/gpl-3.0.txt).

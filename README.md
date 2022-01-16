@@ -30,7 +30,7 @@ $ sudo chmod +x /usr/local/bin/flix-cli
 #### Mac
 
 ```sh
-$ sudo curl -sL "https://raw.githubusercontent.com/DemonicAayush/flix-cli/master/flix-cli-mac" -o /usr/local/bin/flic-cli-mac
+$ sudo curl -sL "https://raw.githubusercontent.com/DemonicAayush/flix-cli/master/flix-cli-mac" -o /usr/local/bin/flix-cli-mac
 $ sudo chmod +x /usr/local/bin/flix-cli-mac
 ```
 

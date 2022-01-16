@@ -1,11 +1,6 @@
 <h1 align="center">FLIX-CLI</h1>
 <p align="center">f@#k netflix use flix-cli a tool which search magnet links and stream it with webtorrent</p>
 
-##
-<p align="center">
-<img src="https://github.com/Bugswriter/notflix/blob/master/preview.gif" alt="Video Preview" width="500px">
-</p>
-
 ### How does this work?
 
 This is a shell script. It scrapes 1337x and gets the magnet link.

@@ -19,7 +19,7 @@ For scraping, the script uses simple gnu utils like sed, awk, paste, cut.
 ## Installation
 
 ### cURL
-cURL **flix-cli** to yout **$PATH** and give execute permission.
+cURL **flix-cli** to your **$PATH** and give execute permission.
 
 #### Linux
 

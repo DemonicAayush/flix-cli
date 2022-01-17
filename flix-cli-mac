@@ -2,7 +2,7 @@
 
 mkdir -p $HOME/.cache/flix-cli
 
-menu="dmenu-mac -i -l 25"
+menu="dmenu-mac"
 baseurl="https://1337x.wtf"
 cachedir="$HOME/.cache/flix-cli"
 

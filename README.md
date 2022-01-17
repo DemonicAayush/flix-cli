@@ -10,7 +10,6 @@ For scraping, the script uses simple gnu utils like sed, awk, paste, cut.
 ## Requirements
 
 * [webtorrent](https://webtorrent.io/) - A tool to stream torrent. `npm install webtorrent-cli -g`
-* `~/.local/bin` in your path
 
 ## Installation
 
@@ -26,8 +25,8 @@ $ sudo chmod +x ~/.local/bin/flix-cli
 #### Mac
 
 ```sh
-$ sudo curl -sL "https://raw.githubusercontent.com/DemonicAayush/flix-cli/master/flix-cli-mac" -o ~/.local/bin/flix-cli
-$ sudo chmod +x ~/.local/bin/flix-cli
+$ sudo curl -sL "https://raw.githubusercontent.com/DemonicAayush/flix-cli/master/flix-cli-mac" -o /usr/local/bin/flix-cli
+$ sudo chmod +x /usr/local/bin/flix-cli
 ```
 
 - To update, just do `curl` again, no need to `chmod` anymore.

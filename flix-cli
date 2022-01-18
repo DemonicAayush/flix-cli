@@ -7,7 +7,7 @@ baseurl="https://1337x.wtf"
 cachedir="$HOME/.cache/flix-cli"
 
 if [ -z $1 ]; then
-	query=$(dmenu -p "Search Torrent: " <&-)
+	query=$(dmenu -p "Search: " <&-)
 else
 	query=$1
 fi

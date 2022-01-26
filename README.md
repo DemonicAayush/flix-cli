@@ -16,8 +16,6 @@ For scraping, the script uses simple gnu utils like sed, awk, paste, cut.
 ### cURL
 cURL **flix-cli** to your **$PATH** and give execute permission.
 
-#### Linux
-
 ```sh
 $ sudo curl -sL "https://raw.githubusercontent.com/DemonicAayush/flix-cli/master/flix-cli" -o /usr/local/bin/flix-cli
 $ sudo chmod +x /usr/local/bin/flix-cli 

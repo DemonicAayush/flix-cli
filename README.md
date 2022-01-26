@@ -1,10 +1,10 @@
 <h1 align="center">FLIX-CLI</h1>
-<p align="center">f@#k netflix use flix-cli a tool which search magnet links and stream it with webtorrent</p>
+<p align="center">f@#k netflix use flix-cli a tool which search magnet links and stream it with peerflix</p>
 
 ### How does this work?
 
 This is a shell script. It scrapes 1337x and gets the magnet link.
-After this it uses [webtorrent](https://github.com/mafintosh/peerflix) to stream the video from the magnet link.
+After this it uses [peerflix](https://github.com/mafintosh/peerflix) to stream the video from the magnet link.
 For scraping, the script uses simple gnu utils like sed, awk, paste, cut.
 
 ## Requirements

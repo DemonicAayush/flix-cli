@@ -2,7 +2,7 @@
 <p align="center">f@#k netflix use flix-cli a tool which search magnet links and stream it with peerflix</p>
 <h2 align="center">
 
- [![GitHub Actions CI Status](https://github.com/DemonicAayush/flix-cli/workflows/GitHub%20Actions%20CI/badge.svg)](https://github.com/DemonicAayush/flix-cli/actions)
+ [![GitHub Actions CI Status](https://github.com/qbittorrent/qbittorrent/workflows/GitHub%20Actions%20CI/badge.svg)](https://github.com/DemonicAayush/flix-cli/actions)
 
 [![Coverity Status](https://scan.coverity.com/projects/5494/badge.svg)](https://scan.coverity.com/projects/5494)
  </h2>
